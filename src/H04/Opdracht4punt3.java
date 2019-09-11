@@ -1,9 +1,9 @@
-package Troublesome96;
+package H04;
 
+import java.applet.Applet;
 import java.awt.*;
-import java.applet.*;
 
-public class H04part4 extends Applet{
+public class Opdracht4punt3 extends Applet{
 
     public void init() {
 

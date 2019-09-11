@@ -1,9 +1,9 @@
-package Troublesome96;
+package H02;
 
+import java.applet.Applet;
 import java.awt.*;
-import java.applet.*;
 
-public class H02part2 extends Applet {
+public class Opdracht2punt2 extends Applet {
 
     public void init() {setBackground(Color.black);}
 

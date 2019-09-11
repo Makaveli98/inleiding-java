@@ -1,9 +1,9 @@
-package Troublesome96;
+package H04;
 
+import java.applet.Applet;
 import java.awt.*;
-import java.applet.*;
 
-public class bs extends Applet{
+public class Opdracht4punt4 extends Applet{
 
     public void init() {
 
@@ -35,11 +35,11 @@ public class bs extends Applet{
 
 
 
-        g.drawString("Shen", 410, 550);
+        g.drawString("Zed", 410, 550);
 
 
 
-        g.drawString("Zed", 280, 550);
+        g.drawString("Shen", 280, 550);
 
 
 
